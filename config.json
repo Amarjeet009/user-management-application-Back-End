@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost:27017/connecting-mongo",
+    "secret": "$2a$10$QP93CdWobZGrb/fglK7LFusmTzGFHljP57PtHmaLjCPFMHomZIlme"
+}
