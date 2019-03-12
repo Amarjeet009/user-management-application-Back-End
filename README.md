@@ -2,4 +2,9 @@
 
 NodeJS + MongoDB API for User Management, Authentication and Registration
 
-For documentation and instructions check out http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management
+To Run this Project Go to Folder Open CMD Or teminal 
+and Confgiured MongoDB.
+
+Run Cammand:
+1. npm install
+2. nodemon server.js
